@@ -1,7 +1,3 @@
 # PokemonAPI
 
-Consumindo api de pokemon
-mvvm
-retrofit
-glide
-kotlin
+Consumindo api de pokemon - app android
